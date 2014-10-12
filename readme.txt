@@ -1,1 +1,1 @@
-$ git remote add origin git@github.com:gx0803/gitrepo.git
+I like git,and you?
