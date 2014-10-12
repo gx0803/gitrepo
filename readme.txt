@@ -1,2 +1,1 @@
-我新增了一行~
-第二行
+$ git remote add origin git@github.com:gx0803/gitrepo.git
